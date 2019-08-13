@@ -1,0 +1,21 @@
+    {
+        "zoneId": "A1",
+        "coordinates": {
+            "topleft": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "topright": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "bottomleft": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "bottomright": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    }
